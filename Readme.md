@@ -1,4 +1,4 @@
-# Crop Recommendation System
+# FarmSmart
 ## Overview
 The Crop Recommendation System is a machine learning-powered web application designed to assist farmers in making informed decisions about crop selection based on various environmental factors. Leveraging machine learning algorithms, the system predicts the most suitable crop for a given set of input parameters such as soil nutrient levels, temperature, humidity, pH, and rainfall.
 
